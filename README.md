@@ -8,6 +8,10 @@ There is no need to install any third party libraries as it comes with React 16+
 
 # Usage
 
+`npm install`
+#
+`npm start`
+
 First import react, createContext, useState
 
 ```javascript
